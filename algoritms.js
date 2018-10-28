@@ -57,7 +57,7 @@ function sortInsert(arr) {
 }
 
 
-assert.deepEqual(sortInsert(newArr), []);
+// assert.deepEqual(sortInsert(newArr), []);
 
 
 
@@ -98,8 +98,8 @@ function binarySearch(arr, number) {
 
 }
 
-assert.deepEqual(binarySearch(mas, 9), 3);
-assert.deepEqual(binarySearch([1], 1), 0);
+// assert.deepEqual(binarySearch(mas, 9), 3);
+// assert.deepEqual(binarySearch([1], 1), 0);
 
 
 let obj7 = {
